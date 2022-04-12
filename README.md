@@ -1,5 +1,6 @@
 # Case description
 You're going to construct an NLP-based movie recommender. The idea is that you provide a movie to the recommender, and the recommender passes back similar movies.
+Your task is to present your suggestions for the movie: The American President and explain how you came up with these suggestions.
 
 Python is the go-to language for Machine Learning, since there are a lot of algorithm implementations.
 
@@ -39,3 +40,6 @@ Now you've got all the elements required to make your recommender work: For a gi
 
 ## Step 4: Extra's
 If you want, you can also add some filters, e.g. on genre level. Or visualize the stuff you have in a dashboard, or make some other things you think are cool :-)
+
+## Step 5: Presentation
+Create a presentation which has your top 5 suggestions for the movie: The American President and explain how you came up with these suggestions.
