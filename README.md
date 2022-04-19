@@ -3,6 +3,7 @@ You're going to construct an NLP-based movie recommender. The idea is that you p
 Your task is to present your suggestions for the movie: The American President and explain how you came up with these suggestions.
 
 Python is the go-to language for Machine Learning, since there are a lot of algorithm implementations.
+It is recommended to use a virtual environment (instead of Anaconda).
 
 ## Step 1: Read data
 Using pandas. 
